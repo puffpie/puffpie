@@ -1,7 +1,8 @@
-## Hi there 👋
 
-<!--
-**puffpie/puffpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--![image](https://github.com/user-attachments/assets/1da60b31-081f-4075-bd11-5fdcdb9a2838)
+
+**puffpie![image](https://github.com/user-attachments/assets/9e8bfd33-363d-4da0-a90b-c561dc44dc9f)
+/puffpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
